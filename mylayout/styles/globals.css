@@ -1,0 +1,16 @@
+body{
+  background-color: darkorange;
+}
+
+.header{
+  background-color:rgb(105, 37, 178);
+}
+
+
+.footer{
+  background-color:rgb(178, 37, 72);
+}
+
+h1{
+  color: aqua;
+}

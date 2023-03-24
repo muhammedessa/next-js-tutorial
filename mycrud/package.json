@@ -1,0 +1,22 @@
+{
+  "name": "mycrud",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^1.3.4",
+    "boostrap": "^2.0.0",
+    "bootstrap": "^5.2.3",
+    "mongoose": "^7.0.2",
+    "next": "13.2.4",
+    "next-connect": "^0.13.0",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.7.2",
+    "react-dom": "18.2.0"
+  }
+}
